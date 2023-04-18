@@ -1,1 +1,1 @@
-# Ai-in-faince
+# Ai-in-finance
