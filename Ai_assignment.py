@@ -7,7 +7,7 @@ def login():
     username = username_entry.get()
     password = password_entry.get()
     if username == "bp" and password == "bp":
-        # messagebox.showinfo("Success", "Hello Bhanu, Welcome to money wallet.")
+        messagebox.showinfo("Success", "Hello Bhanu, Welcome to money wallet.")
         root.destroy() 
         open_main_window() 
     else:
